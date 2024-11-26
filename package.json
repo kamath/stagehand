@@ -63,10 +63,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/browserbase/stagehand.git"
+    "url": "git+https://github.com/kamath/stagehand.git"
   },
   "bugs": {
-    "url": "https://github.com/browserbase/stagehand/issues"
+    "url": "https://github.com/kamath/stagehand/issues"
   },
-  "homepage": "https://github.com/browserbase/stagehand#readme"
+  "homepage": "https://github.com/kamath/stagehand#readme"
 }
