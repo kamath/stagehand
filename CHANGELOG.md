@@ -1,5 +1,15 @@
 # @akamath426/stagehand
 
+## 1.3.1
+
+### Patch Changes
+
+- [#2](https://github.com/kamath/stagehand/pull/2) [`97f0cc0`](https://github.com/kamath/stagehand/commit/97f0cc075d0d7899334d46e0c7679dda70a3418e) Thanks [@kamath](https://github.com/kamath)! - test
+
+- [#227](https://github.com/browserbase/stagehand/pull/227) [`647eefd`](https://github.com/kamath/stagehand/commit/647eefd651852eec495faa1b8f4dbe6b1da17999) Thanks [@kamath](https://github.com/kamath)! - Fix debugDom still showing chunks when set to false
+
+- [#222](https://github.com/browserbase/stagehand/pull/222) [`8dff026`](https://github.com/kamath/stagehand/commit/8dff02674df7a6448f2262c7e212b58c03be57bc) Thanks [@sameelarif](https://github.com/sameelarif)! - Streamline type definitions and fix existing typescript errors
+
 ## 1.3.0
 
 ### Minor Changes
