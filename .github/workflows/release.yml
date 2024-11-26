@@ -37,7 +37,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: |
           git checkout main
-          npm version prerelease --preid=canary --no-git-tag-version
+          npm version prerelease --preid=canary.${GITHUB_SHA::8} --no-git-tag-version
           npm publish --tag canary --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
