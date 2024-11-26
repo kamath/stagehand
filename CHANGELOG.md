@@ -1,4 +1,4 @@
-# @browserbasehq/stagehand
+# @akamath426/stagehand
 
 ## 1.3.0
 

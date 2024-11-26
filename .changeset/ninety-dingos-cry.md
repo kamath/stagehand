@@ -1,5 +1,5 @@
 ---
-"@browserbasehq/stagehand": patch
+"@akamath426/stagehand": patch
 ---
 
 test

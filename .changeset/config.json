@@ -9,7 +9,7 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "browserbase/stagehand"
+      "repo": "akamath426/stagehand"
     }
   ],
   "snapshot": {
