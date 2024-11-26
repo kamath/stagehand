@@ -1,5 +1,11 @@
 # @akamath426/stagehand
 
+## 1.3.2
+
+### Patch Changes
+
+- [#14](https://github.com/kamath/stagehand/pull/14) [`68150dc`](https://github.com/kamath/stagehand/commit/68150dcaafa09407ccb6a3deda6eb13461e95847) Thanks [@kamath](https://github.com/kamath)! - minor change
+
 ## 1.3.1
 
 ### Patch Changes
