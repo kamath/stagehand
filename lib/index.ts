@@ -28,7 +28,6 @@ import { LLMProvider } from "./llm/LLMProvider";
 import { logLineToString } from "./utils";
 
 require("dotenv").config({ path: ".env" });
-// empty
 
 const DEFAULT_MODEL_NAME = "gpt-4o";
 
