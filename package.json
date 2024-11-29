@@ -17,7 +17,7 @@
     "build-js": "esbuild lib/index.ts --bundle --platform=node --outdir=dist --format=esm",
     "build": "npm run build-dom-scripts && npm run build-js && npm run build-types",
     "release": "npm run build && changeset publish",
-    "release-canary": "npm run build && changeset version --snapshot && changeset publish"
+    "release-canary": "npm run build && changeset version --snapshot && changeset publish --tag alpha"
   },
   "files": [
     "dist/**",
