@@ -1,5 +1,15 @@
 # @akamath426/stagehand
 
+## 1.3.5
+
+### Patch Changes
+
+- [#33](https://github.com/kamath/stagehand/pull/33) [`ec6f022`](https://github.com/kamath/stagehand/commit/ec6f022699f57905eac0ab02f564e26f922798c1) Thanks [@kamath](https://github.com/kamath)! - minify esbuild
+
+- [#31](https://github.com/kamath/stagehand/pull/31) [`6645c7d`](https://github.com/kamath/stagehand/commit/6645c7df33d612b1cd5d0189247cb53c8ec9456c) Thanks [@kamath](https://github.com/kamath)! - remove aptces
+
+- [#33](https://github.com/kamath/stagehand/pull/33) [`e44b362`](https://github.com/kamath/stagehand/commit/e44b362ee6ff1259849b9b734d5248ac3ef71424) Thanks [@kamath](https://github.com/kamath)! - kms
+
 ## 1.3.4
 
 ### Patch Changes
