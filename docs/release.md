@@ -99,5 +99,3 @@ Let's push the commit and tag to GitHub for posterity:
 ```
 git push --follow-tags
 ```
-
-Yay!
