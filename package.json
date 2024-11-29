@@ -16,7 +16,8 @@
     "build-types": "tsc --emitDeclarationOnly --outDir dist",
     "build-js": "esbuild lib/index.ts --bundle --platform=node --outdir=dist --format=esm",
     "build": "npm run build-dom-scripts && npm run build-js && npm run build-types",
-    "release": "npm run build && changeset publish"
+    "release": "npm run build && changeset publish",
+    "test": "npm run build && tsx test/test.ts"
   },
   "files": [
     "dist/**",
