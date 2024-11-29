@@ -1,5 +1,13 @@
 # @akamath426/stagehand
 
+## 1.3.4
+
+### Patch Changes
+
+- [#30](https://github.com/kamath/stagehand/pull/30) [`ba53ab8`](https://github.com/kamath/stagehand/commit/ba53ab8960ccb16c105af6ed44392b295b9d12aa) Thanks [@kamath](https://github.com/kamath)! - oops
+
+- [#28](https://github.com/kamath/stagehand/pull/28) [`3d12d9c`](https://github.com/kamath/stagehand/commit/3d12d9c540e2a3a9ff9a033b1b7d708feeff4ebc) Thanks [@kamath](https://github.com/kamath)! - minor
+
 ## 1.3.3
 
 ### Patch Changes
