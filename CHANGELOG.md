@@ -1,5 +1,37 @@
 # @akamath426/stagehand
 
+## 1.3.3
+
+### Patch Changes
+
+- [#19](https://github.com/kamath/stagehand/pull/19) [`9d99857`](https://github.com/kamath/stagehand/commit/9d998573ae6ad8999af72b29b4d7b563d9534bf8) Thanks [@kamath](https://github.com/kamath)! - one more
+
+- [#27](https://github.com/kamath/stagehand/pull/27) [`8c7f6f1`](https://github.com/kamath/stagehand/commit/8c7f6f1d4347bca76709ab946b5429d499617e39) Thanks [@kamath](https://github.com/kamath)! - commit
+
+- [#23](https://github.com/kamath/stagehand/pull/23) [`6a6a1b0`](https://github.com/kamath/stagehand/commit/6a6a1b09b670b1640c2131ecfb8eea136eb4034c) Thanks [@kamath](https://github.com/kamath)! - something
+
+- [#26](https://github.com/kamath/stagehand/pull/26) [`b99c56a`](https://github.com/kamath/stagehand/commit/b99c56afdd3bb382cad0f92737e1b27c499c4318) Thanks [@kamath](https://github.com/kamath)! - snapshot
+
+- [#22](https://github.com/kamath/stagehand/pull/22) [`9a49fd2`](https://github.com/kamath/stagehand/commit/9a49fd28bf9b05f07b289d7e22c7192def805df0) Thanks [@kamath](https://github.com/kamath)! - no change
+
+- [#23](https://github.com/kamath/stagehand/pull/23) [`8594cb6`](https://github.com/kamath/stagehand/commit/8594cb62665a0a0a642f14826e34ed49bd432bca) Thanks [@kamath](https://github.com/kamath)! - plsssss
+
+- [#21](https://github.com/kamath/stagehand/pull/21) [`d108e2f`](https://github.com/kamath/stagehand/commit/d108e2f57f28f8de69437d46fe8c653356586e66) Thanks [@kamath](https://github.com/kamath)! - one more
+
+- [#24](https://github.com/kamath/stagehand/pull/24) [`7551f07`](https://github.com/kamath/stagehand/commit/7551f0761b9ad09821ad2c2fcff12d138841c973) Thanks [@kamath](https://github.com/kamath)! - pls
+
+- [#20](https://github.com/kamath/stagehand/pull/20) [`a75fa2b`](https://github.com/kamath/stagehand/commit/a75fa2b8592786832c566a9561c71e1af6309ce9) Thanks [@kamath](https://github.com/kamath)! - sd
+
+- [#18](https://github.com/kamath/stagehand/pull/18) [`f80eb2a`](https://github.com/kamath/stagehand/commit/f80eb2a0c65e69783fcb372c30d1dae9b1bad4fb) Thanks [@kamath](https://github.com/kamath)! - pls
+
+- [#22](https://github.com/kamath/stagehand/pull/22) [`0fcaf25`](https://github.com/kamath/stagehand/commit/0fcaf2510fa5a156f3e4a93dba69e5a4fec07f38) Thanks [@kamath](https://github.com/kamath)! - no change
+
+- [#16](https://github.com/kamath/stagehand/pull/16) [`c4cb187`](https://github.com/kamath/stagehand/commit/c4cb18771ca8eead549724cb218c44350ac58194) Thanks [@kamath](https://github.com/kamath)! - add changeset
+
+- [#22](https://github.com/kamath/stagehand/pull/22) [`024594b`](https://github.com/kamath/stagehand/commit/024594b72e47e8f4d992be521bfe4f0153dbccd5) Thanks [@kamath](https://github.com/kamath)! - meaningless
+
+- [#25](https://github.com/kamath/stagehand/pull/25) [`b8a194b`](https://github.com/kamath/stagehand/commit/b8a194bf6b5782dfaed2416b7992b5c4abad7c71) Thanks [@kamath](https://github.com/kamath)! - chortcommit
+
 ## 1.3.2
 
 ### Patch Changes
